@@ -1,0 +1,11 @@
+.docsify-copy-code-button {
+  opacity: 1 !important;
+}
+
+.sidebar ul>li {
+  font-weight: bold;
+}
+
+.sidebar ul>li>ul {
+  font-weight: normal;
+}
