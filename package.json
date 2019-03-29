@@ -1,0 +1,25 @@
+{
+  "name": "code-road",
+  "version": "1.0.0",
+  "description": "> docsify serve ./docs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "doc": "./node_modules/.bin/docsify serve ./docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gemicat/code-road.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gemicat/code-road/issues"
+  },
+  "homepage": "https://github.com/Gemicat/code-road#readme",
+  "devDependencies": {
+    "docsify-cli": "4.3.0"
+  }
+}
