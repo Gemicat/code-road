@@ -1,3 +1,6 @@
 # Code Road
 
-> docsify serve ./docs
+```
+yarn install
+yarn doc
+```
